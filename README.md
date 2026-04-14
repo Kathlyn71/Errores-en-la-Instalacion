@@ -7,6 +7,7 @@
 
 **Mensaje del error:**
 <img src="img1.png" width="500">
+
 No era un error como tall, el problema era que instalaba una versión de Laravel mas antiguo.
 Mi WAMP decia PHP 8.3.28
 
@@ -15,6 +16,7 @@ El sistema estaba utilizando una versión antigua de PHP configurada en el PATH,
 
 **🔧 Solución:**
 Se actualizó el PATH del sistema para apuntar a la versión correcta de PHP (8.3) instalada en WampServer.
+
 <img src="img2.png" width="500">
 
 ---
@@ -96,8 +98,11 @@ Luego de eso pude ejecutar correctamente npm install
 Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:
 
 Nombre: Kathlyn Morales
+
 Correo: Kathlyn.Morales@utp.ac.pa
+
 Curso: Desarrollo de Software VII
+
 Instructor del Laboratorio: Irina Fong
 
 
